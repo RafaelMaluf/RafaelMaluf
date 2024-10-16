@@ -59,7 +59,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefersoa&show_icons=true&locale=en&layout=compact" alt="alexandrefersoa" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrefersoa&show_icons=true&locale=en" alt="alexandrefersoa" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrefersoa&" alt="alexandrefersoa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelMaluf&show_icons=true&locale=en&layout=compact" alt="alexandrefersoa" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelMaluf&show_icons=true&locale=en" alt="RafaelMaluf" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMaluf&" alt="RafaelMaluf" />
 </div>
