@@ -5,7 +5,7 @@
 <h1 align="center">Olá 👋, sou Rafael Maluf Araujo!</h1>
 <h3 align="center">Estudante de Ciências da Computação - Computer Science Student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Og8L6NGjDQzFm/giphy.gif">
+
 
 
 - 🌱 No momento aprendendo **Java & C++** na PUC Minas
